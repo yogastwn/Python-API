@@ -1,0 +1,16 @@
+# POST DATA PLAYLIST
+{
+  "name": "Waktu Indonesia Bagian Cidro"
+}
+
+{
+  "name": "Boys Don't Cry"
+}
+[
+  {
+    "name": "Waktu Indonesia Bagian Cidro"
+  },
+  {
+    "name": "Boys Don't Cry"
+  }
+]
